@@ -1,0 +1,764 @@
+* {
+  margin: 0;
+}
+
+:root {
+  --roxo: #413389;
+  --rosa: #7B217F;
+  --degrade: linear-gradient(-90deg, #413389, #000000);
+  --font-titulo: "Orbitron", sans-serif;
+  --font-normal: "Montserrat", sans-serif;
+}
+
+body {
+  background: var(--degrade);
+  font-family: var(--font-normal);
+  color: white;
+}
+
+.button {
+  border-radius: 30px;
+  background-color: var(--rosa);
+  height: 73px;
+  width: 239px;
+  border: none;
+}
+
+
+
+.button:hover {
+  background-color: var(--roxo);
+}
+
+.text-button {
+  font-family: var(--font-normal);
+  color: white;
+}
+
+
+.cor-inscreva-se {
+  color: white;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 700;
+}
+
+.rectangle-20,
+.rectangle-20 * {
+  box-sizing: border-box;
+}
+
+.rectangle-20 {
+  background: #ffffff;
+  height: 212px;
+  position: relative;
+}
+
+.logo-feminiti-final-ai-3,
+.logo-feminiti-final-ai-3 * {
+  box-sizing: border-box;
+}
+
+.logo-feminiti-final-ai-3 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.sobre,
+.sobre * {
+  box-sizing: border-box;
+}
+
+.sobre {
+  color: var(--roxo);
+  font-family: var(--font-normal);
+  font-size: 25px;
+  font-weight: 400;
+  text-decoration: none;
+}
+
+.professores,
+.professores * {
+  box-sizing: border-box;
+}
+
+.professores {
+  color: var(--roxo);
+  font-family: var(--font-normal);
+  font-size: 25px;
+  font-weight: 400;
+  text-decoration: none;
+}
+
+.ret-left {
+  margin-left: -250px;
+}
+
+.ret-right {
+  margin-right: -250px;
+}
+
+
+.cronogroma,
+.cronogroma * {
+  box-sizing: border-box;
+}
+
+.cronogroma {
+  color: var(--roxo);
+  font-family: var(--font-normal);
+  font-size: 25px;
+  font-weight: 400;
+  text-decoration: none;
+}
+
+.parceiros,
+.parceiros * {
+  box-sizing: border-box;
+}
+
+.parceiros {
+  color: var(--roxo);
+  font-family: var(--font-normal);
+  font-size: 25px;
+  font-weight: 400;
+  text-decoration: none;
+}
+
+
+.rectangle-122,
+.rectangle-122 * {
+  box-sizing: border-box;
+}
+
+.rectangle-122 {
+  background: var(--rosa);
+  border-radius: 40px;
+  width: 239px;
+  height: 73px;
+  position: relative;
+}
+
+.text-button,
+.text-button * {
+  box-sizing: border-box;
+}
+
+.text-button {
+  color: #ffffff;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 700;
+  font-size: 25px;
+  font-weight: 400;
+  position: relative;
+}
+
+
+.button2 {
+  border-radius: 60px;
+  background-color: var(--rosa);
+  height: 110px;
+  width: 380px;
+  margin-top: 70px;
+  margin-bottom: 70px;
+  border: none;
+}
+
+.text-button2,
+.text-button2 * {
+  box-sizing: border-box;
+}
+
+.text-button2 {
+  color: #ffffff;
+  font-family: var(--font-normal);
+  font-size: 25px;
+  font-weight: 400;
+  line-height: center;
+  text-align: center;
+}
+
+.botaodomeio {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  border: none;
+  margin-top: 20px;
+}
+
+.button2:hover {
+  background-color: white;
+  color: var(--rosa);
+}
+
+.button2:hover a {
+  color: var(--rosa);
+}
+
+
+.menu-principal {
+  display: flex;
+}
+
+.menu-principal-itens {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 50px;
+}
+
+
+.img-1935-1,
+.img-1935-1 * {
+  box-sizing: border-box;
+}
+
+.img-1935-1 {
+  width: 100%; /* Largura total da janela */
+}
+
+
+.sobre-a-femini-ti,
+.sobre-a-femini-ti * {
+  box-sizing: border-box;
+}
+
+.sobre-a-femini-ti {
+  color: #ffffff;
+  text-align: center;
+  font-family: var(--font-titulo);
+  font-size: 65px;
+  font-weight: 400;
+  position: relative;
+  height: 82px;
+  margin-top: 70px;
+  margin-bottom: 70px;
+}
+
+.bem-vindas-a-femi-ti-brasil-2024-nosso-programa-celebra-e-empodera-mulheres-cis-e-trans-nas-reas-de-tecnologia-e-stem-participe-de-uma-jornada-inspiradora-de-networking-e-aprendizado-com-mentoria-e-apoio-para-impulsionar-sua-carreira-em-um-ambiente-inclusivo-e-colaborativo,
+.bem-vindas-a-femi-ti-brasil-2024-nosso-programa-celebra-e-empodera-mulheres-cis-e-trans-nas-reas-de-tecnologia-e-stem-participe-de-uma-jornada-inspiradora-de-networking-e-aprendizado-com-mentoria-e-apoio-para-impulsionar-sua-carreira-em-um-ambiente-inclusivo-e-colaborativo * {
+  box-sizing: border-box;
+}
+
+.bem-vindas-a-femi-ti-brasil-2024-nosso-programa-celebra-e-empodera-mulheres-cis-e-trans-nas-reas-de-tecnologia-e-stem-participe-de-uma-jornada-inspiradora-de-networking-e-aprendizado-com-mentoria-e-apoio-para-impulsionar-sua-carreira-em-um-ambiente-inclusivo-e-colaborativo {
+  color: #ffffff;
+  text-align: center;
+  font-family: var(--font-normal);
+  font-size: 45px;
+  font-weight: 400;
+  position: relative;
+}
+
+.group-88,
+.group-88 * {
+  box-sizing: border-box;
+}
+
+.group-88 {
+  position: relative;
+}
+
+.rectangle-3 {
+  background: #7b217f;
+  border-radius: 90px;
+  width: 449px;
+  height: 124px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+
+.conhe-a-a-gora,
+.conhe-a-a-gora * {
+  box-sizing: border-box;
+}
+
+.conhe-a-a-gora {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--font-normal);
+  font-size: 40px;
+  font-weight: 800;
+  position: relative;
+}
+
+.rectangle-5,
+.rectangle-5 * {
+  box-sizing: border-box;
+}
+
+
+.rectangle-5 {
+  background: var(--rosa);
+  border-radius: 60px;
+  width: 300px;
+  height: 300px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+
+.textodomeio {
+  font-family: var(--font-normal);
+  color: white;
+  display: flex;
+  text-align: center;
+  font-size: 28px;
+}
+
+.section {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.section-infos {
+  background-image: url("./img/meninas-atualizado.png");
+  background-size: cover;
+  /* Faz com que a imagem cubra todo o contêiner */
+  background-position: center;
+  /* Centraliza a imagem */
+  height: 578px;
+  width: 50%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+}
+
+.ambiente-exclusivo-com-professores-especializados,
+.ambiente-exclusivo-com-professores-especializados * {
+  box-sizing: border-box;
+}
+
+.ambiente-exclusivo-com-professores-especializados {
+  color: #ffffff;
+  text-align: center;
+  font-family: var(--font-normal);
+  font-size: 35px;
+  font-weight: 500;
+  position: relative;
+  width: 271px;
+}
+
+
+
+.cursos-gratuitos-de-capacita-o-para-mulheres-cis-e-trans,
+.cursos-gratuitos-de-capacita-o-para-mulheres-cis-e-trans * {
+  box-sizing: border-box;
+}
+
+.cursos-gratuitos-de-capacita-o-para-mulheres-cis-e-trans {
+  color: #ffffff;
+  text-align: center;
+  display: flex;
+  font-family: var(--font-normal);
+  font-size: 35px;
+  font-weight: 500;
+  width: 271px;
+}
+
+
+
+.aulas-ao-vivo-e-online-com-intera-o-para-tirar-d-vidas,
+.aulas-ao-vivo-e-online-com-intera-o-para-tirar-d-vidas * {
+  box-sizing: border-box;
+}
+
+.aulas-ao-vivo-e-online-com-intera-o-para-tirar-d-vidas {
+  color: #ffffff;
+  text-align: center;
+  font-family: var(--font-normal);
+  font-size: 35px;
+  font-weight: 500;
+  position: relative;
+  width: 271px;
+}
+
+
+.utiliza-o-das-plataformas-networking-academy-e-webex,
+.utiliza-o-das-plataformas-networking-academy-e-webex * {
+  box-sizing: border-box;
+}
+
+.utiliza-o-das-plataformas-networking-academy-e-webex {
+  color: #ffffff;
+  text-align: center;
+  font-family: var(--font-normal);
+  font-size: 35px;
+  font-weight: 500;
+  position: relative;
+  width: 271px;
+}
+
+.young-cute-female-posing-indoor-1,
+.young-cute-female-posing-indoor-1 * {
+  box-sizing: border-box;
+}
+
+.young-cute-female-posing-indoor-1 {
+  height: 593px;
+  position: relative;
+  object-fit: cover;
+}
+
+.networking-academy,
+.networking-academy * {
+  box-sizing: border-box;
+}
+
+.networking-academy {
+  color: #ffffff;
+  text-align: center;
+  font-family: var(--font-titulo);
+  font-size: 65px;
+  font-weight: 400;
+  height: 82px;
+  margin-top: 90px;
+  margin-bottom: 90px;
+}
+
+.container-centralizado {
+  display: flex;
+  /* Ativa o flexbox */
+  flex-direction: column;
+  /* Coloca os itens em uma coluna */
+  align-items: center;
+  /* Alinha horizontalmente ao centro */
+  justify-content: center;
+  /* Alinha verticalmente ao centro */
+
+}
+
+/* Estilo da imagem */
+.linhas1 {
+  margin: 20px 0;
+  /* Espaçamento entre a imagem e os textos */
+
+}
+
+
+.inclus-o-na-femini-ti,
+.inclus-o-na-femini-ti * {
+  box-sizing: border-box;
+}
+
+.inclus-o-na-femini-ti {
+  color: #ffffff;
+  text-align: center;
+  font-family: var(--font-titulo);
+  font-size: 65px;
+  font-weight: 400;
+  margin-top: 90px;
+  margin-bottom: 90px;
+}
+
+.inclusaoalinhar{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.inclusao {
+  box-sizing: border-box;
+  display: flex;
+}
+
+a {
+  text-decoration: none;
+  color: var(--rosa);
+}
+
+.alinharcuros {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+.informa-es-do-curso,
+.informa-es-do-curso * {
+  box-sizing: border-box;
+}
+
+.informa-es-do-curso {
+  color: #ffffff;
+  text-align: center;
+  font-family: var(--font-titulo);
+  font-size: 65px;
+  font-weight: 400;
+  position: relative;
+  height: 82px;
+}
+
+
+.informacoesdocurso {
+  margin-top: 90px;
+  margin-bottom: 90px;
+}
+
+.professores-volunt-rios,
+.professores-volunt-rios * {
+  box-sizing: border-box;
+}
+
+.professores-volunt-rios {
+  color: #ffffff;
+  text-align: center;
+  font-family: var(--font-titulo);
+  font-size: 65px;
+  font-weight: 400;
+  position: relative;
+  height: 82px;
+  margin-bottom: 90px;
+}
+
+.professoresalinhar {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.cronogroma-do-curso,
+.cronogroma-do-curso * {
+  box-sizing: border-box;
+}
+
+.cronogroma-do-curso {
+  color: #ffffff;
+  text-align: center;
+  font-family: var(--font-titulo);
+  font-size: 65px;
+  font-weight: 400;
+  position: relative;
+  height: 82px;
+  margin-top: 90px;
+  margin-bottom: 90px;
+}
+
+.cronogroma-do-curso2 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.saiba-mais-sobre-a-gamifica-o,
+.saiba-mais-sobre-a-gamifica-o * {
+  box-sizing: border-box;
+}
+
+.saiba-mais-sobre-a-gamifica-o {
+  color: #ffffff;
+  text-align: center;
+  font-family: var(--font-titulo);
+  font-size: 65px;
+  font-weight: 400;
+  position: relative;
+  height: 82px;
+  margin-top: 70px;
+  margin-bottom: 70px;
+}
+
+.ver-agora,
+.ver-agora * {
+  box-sizing: border-box;
+}
+
+.ver-agora {
+  color: #ffffff;
+  text-align: center;
+  font-family: var(--font-normal);
+  font-size: 40px;
+  font-weight: 800;
+  position: relative;
+  width: 254px;
+  height: 48px;
+}
+
+.parceiros,
+.parceiros * {
+  box-sizing: border-box;
+}
+
+
+
+
+.parceiros2 {
+  color: #413389;
+  background-color: white;
+  text-align: center;
+  font-family: var(--font-titulo);
+  font-size: 65px;
+  font-weight: 400;
+  position: relative;
+  height: 82px;
+}
+
+.colorparceiros {
+  background-color: white;
+}
+
+.colorlideres {
+  background-color: black;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 80px;
+  margin-top: 0px;
+}
+
+.degradefinal {
+  background-color: var(--degrade);
+}
+
+
+
+.img-fmt {
+  padding: 0 0 0 700px;
+}
+
+.fa-a-parte-da-comunidade-femini-ti,
+.fa-a-parte-da-comunidade-femini-ti * {
+  box-sizing: border-box;
+}
+
+.fa-a-parte-da-comunidade-femini-ti {
+  color: #ffffff;
+  text-align: center;
+  font-family: var(--font-normal);
+  font-size: 65px;
+  font-weight: 400;
+  position: relative;
+  height: 236px;
+}
+
+input,
+textarea {
+  background-color: var(--rosa);
+    border: 1px solid var(--rosa);
+    border-radius: 70px;
+    color: white;
+    padding: 40px;
+    width: -webkit-fill-available;
+    margin-bottom: 60px;
+    width: 70%;
+}
+
+
+label {
+  font-size: 2em;
+}
+
+.botao {
+  border: white;
+  border-radius: 70px;
+  padding: 40px;
+  color: var(--rosa);
+  width: 115%;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 700;
+  font-size: 30px;
+}
+
+.foooter {
+  background-color: var(--roxo);
+}
+
+.finalrdp {
+  margin-top: 50px;
+  margin-bottom: 50px ;
+}
+
+.nome-completo {
+  font-family: var(--font-normal);
+  font-size: 30px;
+}
+
+.email {
+  font-family: var(--font-normal);
+  font-size: 30px;
+}
+
+.telefone {
+  font-family: var(--font-normal);
+  font-size: 30px;
+}
+
+form {
+  margin: 0 auto;
+  max-width: 500px;
+ 
+}
+
+form input,
+form textarea {
+  width: 100%;
+
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+.video-background {
+  position: relative;
+  width: 100%;
+  height: 40vh; /* Faz com que o vídeo cubra toda a altura da tela */
+  overflow: hidden;
+  display: flex;
+  align-items:center;
+  justify-content:center;
+}
+
+#video-background {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover; /* Faz com que o vídeo cubra toda a área sem distorção */
+  z-index: -1; /* Garante que o vídeo fique atrás de outros elementos */
+}
+
+.video-depoimentos {
+  position: relative;
+  width: 100%;
+  height: 130vh; /* Altura da tela inteira */
+  overflow: hidden;
+}
+
+.video-depoimentos video {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%); /* Centraliza o vídeo */
+  width: 100%;
+
+}
+
+.section,
+.container-centralizado,
+.inclusaoalinhar,
+.rectangle-33,
+.botaodomeio,
+.informa-es-do-curso,
+.professores-volunt-rios,
+.professoresalinhar,
+.cronogroma-do-curso,
+.saiba-mais-sobre-a-gamifica-o,
+.parceiros2 {
+  position: relative;
+  z-index: 1; /* Garante que o conteúdo fique acima do vídeo */
+}
+
+#video-dp {
+  background-color: black;
+}
+
